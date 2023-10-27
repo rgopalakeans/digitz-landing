@@ -1,1 +1,1 @@
-# EcoZone-Landing
+# Digitz-Landing
