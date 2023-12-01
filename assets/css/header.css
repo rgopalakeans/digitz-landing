@@ -1,6 +1,4 @@
 /* -- Header1 -- */
-
-
 /* Topbar */
 
 .top-bar {
@@ -61,9 +59,10 @@
     font-family: var(--title_font);
     font-weight: 600;
     position: relative;
+    color: #fff;
 }
 .shopify-section-header nav.main-navigation ul.main-menu li a:hover{
-    color:var(--hover_color);
+    /* color:var(--hover_color); */
 }
 .shopify-section-header nav.main-navigation ul.main-menu li a:after {
     position: absolute;
@@ -114,8 +113,8 @@
 }
 
 div#header-layout1 {
-    background-color: #ffffff;
-    border-bottom: 1px solid #ddd;
+    background-color: #745296;
+    border-bottom: 1px solid #745296;
 }
 
 

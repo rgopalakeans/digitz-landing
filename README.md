@@ -1,1 +1,1 @@
-# Digitz-Landing
+# Gazet-Landing
